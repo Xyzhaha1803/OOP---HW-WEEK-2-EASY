@@ -15,5 +15,7 @@ public class Q3{
         } else {
             System.out.println(num + " is a odd number.");
         }
+
+        scanner.close();
     }
 }
